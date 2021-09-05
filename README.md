@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/132144838-a5deb2d0-d9da-455a-9b98-a39bb7b4e765.png" align="left" height="150px" width="150px">
+    <h1># Criando um catálogo de jogos usando boas práticas de arquitetura com .NET</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Sua mssão neste lab será construir uma arquitetura base para uma aplicação .NET do zero.
     </p>
 </p>      
 
